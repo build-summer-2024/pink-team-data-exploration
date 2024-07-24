@@ -8,7 +8,7 @@ Ruby
 
 ## Progress
 
-- [ ] Use the appropriate pandas methods to get the info on the data and describe it.
+- [x] Use the appropriate pandas methods to get the info on the data and describe it.
 - [ ] List the column names in the dataset.
 - [ ] What is the most ordered item? How many exactly were ordered?
 - [ ] How much revenue did this chipotle make?
